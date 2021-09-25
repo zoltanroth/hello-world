@@ -1,5 +1,3 @@
-# hello-world
-Newbie 
 # Hi there!
 
 # I am here to progress in my career! I am learning Java and cannot wait 
